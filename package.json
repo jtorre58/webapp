@@ -1,0 +1,30 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "nodejs webapp demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtorre58/webapp.git"
+  },
+  "keywords": [
+    "nodejs",
+    "web",
+    "development"
+  ],
+  "author": "Jesus Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtorre58/webapp/issues"
+  },
+  "homepage": "https://github.com/jtorre58/webapp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "nodemailer": "^6.4.16"
+  }
+}
